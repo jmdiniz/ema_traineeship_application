@@ -6,7 +6,7 @@ This document references a few examples of my relevant work, using hyperlinks or
 
 ## Data Pipelines: From Extraction to Visualization (Code)
 
-- Data extraction pipeline for Portuguese official statistics (public API query): <u>**indicadores_INE.R**</u>
+- Data extraction pipeline for Portuguese official statistics (public API query): <ins>**indicadores_INE.R**</ins>
 Mirror: https://drive.google.com/file/d/1k_VM4RFYFIXb6NI_MSqY7ITUk-F59EsD/view?usp=sharing
 
 - Electronic health records data processing and visualization automated pipeline: **indicadores_ACES_sample.R**
