@@ -7,10 +7,8 @@ This document references a few examples of my relevant work, using hyperlinks or
 ## Data Pipelines: From Extraction to Visualization (Code)
 
 - Data extraction pipeline for Portuguese official statistics (public API query): <ins>**indicadores_INE.R**</ins>
--- Mirror: https://drive.google.com/file/d/1k_VM4RFYFIXb6NI_MSqY7ITUk-F59EsD/view?usp=sharing
 
 - Electronic health records data processing and visualization automated pipeline: <ins>**indicadores_ACES_sample.R**</ins>
--- Mirror: https://drive.google.com/file/d/1EENaI4HT-i-Axbu6_lcEHti7SRQ2Y_on/view?usp=sharing
 
 ## Data Visualization (Results)
 
@@ -20,7 +18,7 @@ This document references a few examples of my relevant work, using hyperlinks or
 
 - Likert scales figures for survey results: https://humanfactors.jmir.org/2023/1/e45949
 
-- Sample graph produced by the electronic health records data processing and visualization automated pipeline: “Proportion of hypocoagulated patients who are controlled in the health unit” - <ins>**sample_graph.png**</ins> -- Mirror: https://drive.google.com/file/d/17c5JvJr7npTqreRXPIS7z9VfxCxzB8Sx/view?usp=sharing
+- Sample graph produced by the electronic health records data processing and visualization automated pipeline: “Proportion of hypocoagulated patients who are controlled in the health unit” - <ins>**sample_graph.png**</ins>
 
 ## Shiny Dashboard
 
@@ -28,4 +26,4 @@ This document references a few examples of my relevant work, using hyperlinks or
 
 ## Python AI model
 
-- Heart Failure Mortality Prediction using XGBoost: <ins>**sample_code.py**</ins> -- Mirror: https://drive.google.com/file/d/1WTs_cr6JIoMoFFZXiagM1pDg-3uUhPnp/view?usp=sharing
+- Heart Failure Mortality Prediction using XGBoost: <ins>**sample_code.py**</ins>
