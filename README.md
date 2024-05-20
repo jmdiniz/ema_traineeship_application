@@ -6,21 +6,21 @@ This document references a few examples of my relevant work, using hyperlinks or
 
 ## Data Pipelines: From Extraction to Visualization (Code)
 
-- Data extraction pipeline for Portuguese official statistics (public API query): indicadores_INE.R
+- Data extraction pipeline for Portuguese official statistics (public API query): **indicadores_INE.R**
 Mirror: https://drive.google.com/file/d/1k_VM4RFYFIXb6NI_MSqY7ITUk-F59EsD/view?usp=sharing
 
-- Electronic health records data processing and visualization automated pipeline: indicadores_ACES_sample.R
+- Electronic health records data processing and visualization automated pipeline: **indicadores_ACES_sample.R**
 Mirror: https://drive.google.com/file/d/1EENaI4HT-i-Axbu6_lcEHti7SRQ2Y_on/view?usp=sharing
 
 ## Data Visualization (Results)
 
-- Poster Presentation on drug costs evolution in Portugal: https://europa.eu/europass/eportfolio/screen/share/28fc8edb-e0c9-4e37-9b6b-a83f2f925673?lang=pt
+- Poster Presentation on drug costs evolution in Portugal: https://europa.eu/europass/eportfolio/screen/share/28fc8edb-e0c9-4e37-9b6b-a83f2f925673?lang=pt (**in the repo**)
 
-- Poster for “2024 Flower AI Summit” on Federated Learning: https://europa.eu/europass/eportfolio/screen/share/42828f2c-32bf-43d5-bcfe-93158a5c61aa?lang=pt
+- Poster for “2024 Flower AI Summit” on Federated Learning: https://europa.eu/europass/eportfolio/screen/share/42828f2c-32bf-43d5-bcfe-93158a5c61aa?lang=pt (**in the repo**)
 
 - Likert scales figures for survey results: https://humanfactors.jmir.org/2023/1/e45949
 
-- Sample graph produced by the electronic health records data processing and visualization automated pipeline: “Proportion of hypocoagulated patients who are controlled in the health unit” - sample_graph.png ; Mirror: https://drive.google.com/file/d/17c5JvJr7npTqreRXPIS7z9VfxCxzB8Sx/view?usp=sharing
+- Sample graph produced by the electronic health records data processing and visualization automated pipeline: “Proportion of hypocoagulated patients who are controlled in the health unit” - **sample_graph.png** ; Mirror: https://drive.google.com/file/d/17c5JvJr7npTqreRXPIS7z9VfxCxzB8Sx/view?usp=sharing
 
 ## Shiny Dashboard
 
@@ -28,5 +28,5 @@ Mirror: https://drive.google.com/file/d/1EENaI4HT-i-Axbu6_lcEHti7SRQ2Y_on/view?u
 
 ## Python AI model
 
-- Heart Failure Mortality Prediction using XGBoost: sample_code.py
+- Heart Failure Mortality Prediction using XGBoost: **sample_code.py**
 Mirror: https://drive.google.com/file/d/1WTs_cr6JIoMoFFZXiagM1pDg-3uUhPnp/view?usp=sharing
